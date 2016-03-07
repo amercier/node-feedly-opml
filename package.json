@@ -1,6 +1,6 @@
 {
   "name": "feedly2opml",
-  "version": "0.1.0-alpha.2",
+  "version": "0.1.0-alpha.3",
   "description": "A NPM module that exports a Feedly account to OPML 2.0.",
   "license": "ISC",
   "repository": "amercier/node-feedly2opml",
