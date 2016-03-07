@@ -18,11 +18,13 @@
   },
   "main": "dist/lib/index.js",
   "keywords": [
+    "feedly2opml",
     "feedly",
     "opml",
     "opml2",
     "export",
-    "tags"
+    "tags",
+    "xml"
   ],
   "dependencies": {},
   "devDependencies": {
