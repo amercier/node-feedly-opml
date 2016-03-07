@@ -1,9 +1,9 @@
 {
-  "name": "package-skeleton",
+  "name": "feedly2opml",
   "version": "0.1.0-alpha.2",
-  "description": "Skeleton of a simple NPM Package with Babel and CI already configured.",
+  "description": "A NPM module that exports a Feedly account to OPML 2.0.",
   "license": "MIT",
-  "repository": "amercier/npm-package-skeleton",
+  "repository": "amercier/node-feedly2opml",
   "author": "Alex Mercier <pro.alexandre.mercier@gmail.com> (http://amercier.com)",
   "engines": {
     "node": ">=0.10.0"
@@ -18,21 +18,11 @@
   },
   "main": "dist/lib/index.js",
   "keywords": [
-    "package",
-    "skeleton",
-    "example",
-    "node",
-    "npm",
-    "babel",
-    "ci",
-    "code",
-    "codeclimate",
-    "codecov",
-    "coverage",
-    "eslint",
-    "gemnasium",
-    "istanbul",
-    "mocha"
+    "feedly",
+    "opml",
+    "opml2",
+    "export",
+    "tags"
   ],
   "dependencies": {},
   "devDependencies": {
